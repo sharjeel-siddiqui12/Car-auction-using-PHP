@@ -99,3 +99,7 @@ The car auction website is structured into several key modules:
 ## Conclusion
 
 This project successfully developed a comprehensive car auction website with real-time search, auction, and transaction capabilities. By utilizing modern web technologies, the platform provides a user-friendly and efficient marketplace for car buyers and sellers. Future enhancements will focus on expanding functionality and improving user experience.
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
