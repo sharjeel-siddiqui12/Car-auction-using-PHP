@@ -15,8 +15,8 @@ Key functionalities of the website include:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sharjeel-siddiqui12/car-auction-php.git`
-2. Navigate to the project directory: `cd car-auction-php`
+1. Clone the repository: `git clone https://github.com/sharjeel-siddiqui12/Car-auction-using-PHP.git`
+2. Navigate to the project directory: `cd Car-auction-using-PHP`
 3. Import the database: Use the provided SQL file to import the database structure and sample data.
 4. Configure the database connection: Open the `config.php` file and update the database credentials.
 5. Start the PHP development server: Run `php -S localhost:8000` to start the server.
